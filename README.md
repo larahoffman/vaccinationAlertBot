@@ -1,1 +1,2 @@
-# vaccinationAlertBot
+# Bot buscador de turno para la vacuna del dengue
+* Este script scrapea la página web del Ministerio de Salud del GCBA en busca de cambios. En el caso de haber una modificación en el contenido HTML, se enviará una notificación a través de un bot de Telegram.
